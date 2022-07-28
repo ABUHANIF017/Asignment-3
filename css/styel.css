@@ -6,3 +6,15 @@
 .aksed-color {
     color: rgb(195, 178, 178);
 }
+
+.foot-padd {
+    padding: 100px 0px;
+}
+
+.social-bg-color {
+    background-color: #242424;
+    color: white;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+}
